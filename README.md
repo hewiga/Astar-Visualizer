@@ -1,0 +1,1 @@
+Wizualizator algorytmu A*
